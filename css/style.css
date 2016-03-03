@@ -68,6 +68,13 @@ h2 {
      width: 1170px;
    }
  }
+/* TV Media query for Assignment 30 */
+@media (min-width: 1920px) {
+	.container {
+		width: 1860px;
+	}
+}
+
  /* Header */
  header {
  	color: #FFFFFF;
@@ -134,5 +141,6 @@ header .hero {
    border: 2px solid #2ECC71;
    box-shadow: 0px 2px 0px 0px #22894E;
  }
+
 
 
