@@ -240,7 +240,7 @@ header .hero {
  }
 
   /* TESTIMONIALS */
-  
+
  .testimonials {
    padding:4em 0;
    text-align: center;
@@ -289,4 +289,7 @@ header .hero {
    text-align: left;
    font-size:13px;
    margin-top: 30px;
+ }
+ .stagger {
+ 	margin-top: 20px
  }
