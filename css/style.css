@@ -68,6 +68,18 @@ h2 {
      width: 1170px;
    }
  }
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+/* TV Media query for Assignment 30 */
+@media (min-width: 1920px) {
+	.container {
+		width: 1860px;
+	}
+}
+=======
+>>>>>>> gh-pages
+>>>>>>> master
 
  /* Header */
  header {
@@ -122,8 +134,17 @@ header .hero {
  }
  header .hero img {
    display: block;
+<<<<<<< HEAD
    margin: 3em auto 0;
    max-width: 100%;
+=======
+<<<<<<< HEAD
+   margin:3em auto 0;
+=======
+   margin: 3em auto 0;
+   max-width: 100%;
+>>>>>>> gh-pages
+>>>>>>> master
  }
  /* BUTTONS */
  .btn {
@@ -137,6 +158,13 @@ header .hero {
    box-shadow: 0px 2px 0px 0px #22894E;
  }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+
+
+=======
+>>>>>>> master
 /* BENEFITS */
  .benefits {
    text-align: center;
