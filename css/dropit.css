@@ -31,6 +31,21 @@
   margin: 0;
   margin: 20px 0 0;
 }
+.menu-bottom.dropit .dropit-submenu {
+    top: auto;
+    left: auto;
+    bottom: 100%;
+    width: 175px;
+}
+    .menu-bottom.dropit .dropit-submenu a {
+        text-align: left;
+        float: left;
+    }
+.menu-bottom.dropit .dropit-open .dropit-submenu:after {
+    border-width: 8px 8px 0;
+    top: auto;
+    bottom: -8px;
+}
 .dropit .dropit-open .dropit-submenu {
   display: block;
    background: #FFFFFF;
